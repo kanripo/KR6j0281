@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:15.322296
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:44
 #+TITLE: 何耶揭唎婆觀世音菩薩受法壇
 #+PROPERTY: CBETA_ID T20n1074
 #+PROPERTY: ID KR6j0281
